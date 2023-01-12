@@ -5,7 +5,7 @@
 
 ![atl text](https://github.com/Raquelsc05/Maratona-Explorer/blob/main/assets/bola_de_cristal.png)
 
-## [Faça a sua pergunta](raquelsc05.github.io/Maratona-Explorer/)
+## [Faça a sua pergunta](https://raquelsc05.github.io/Maratona-Explorer/)
 
 
 ## HTML
